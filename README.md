@@ -6,11 +6,15 @@ Built with modern technologies, Easy Converse focuses on smooth performance, a b
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Deployment Link
 
-🔗 [Visit Easy Converse](https://easy-converse-1.onrender.com)
+🔗 [Easy Converse on Render](https://easy-converse-1.onrender.com)
 
-[![Live](https://img.shields.io/badge/Live-Easy%20Converse-green?style=for-the-badge&logo=vercel)](https://your-deployment-url.com)
+[![Live](https://img.shields.io/badge/Live-Easy%20Converse-green?style=for-the-badge&logo=vercel)](https://easy-converse-1.onrender.com)
+
+> ⚠️ **Note:** The app is hosted on [Render.com](https://render.com) using the free tier.  
+> It may go to sleep after 15 minutes of inactivity, which can cause a **cold start delay of 30–60 seconds**. Thanks for your patience!
+
 
 ---
 
