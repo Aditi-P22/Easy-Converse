@@ -20,6 +20,24 @@ Built with modern technologies, Easy Converse focuses on smooth performance, a b
 
 ---
 
+## 🖼 Screenshots
+
+| Sign In Page | Sign Up Page |
+|--------------|--------------|
+| ![Sign In](https://github.com/user-attachments/assets/238c2273-c23f-40b2-9f06-6901c30c5842) | ![Sign Up](https://github.com/user-attachments/assets/254eb2cf-d969-42ed-9437-3660ef0a1f45) |
+
+| Home Page | Notifications |
+|---------------------|----------------------|
+| ![Add Station](https://github.com/user-attachments/assets/489e93d4-fc34-478c-9160-0197db9d29e9) | ![Edit Station](https://github.com/user-attachments/assets/4ffbccff-9aac-4011-83cc-eea90f2b0bc9) |
+
+| Chat Screen (Kartik and Akshat are chatting) | Thread Screen | Message Update Features |
+|---------------------|----------------------|----------|
+| ![Map View 1](https://github.com/user-attachments/assets/d9e0e7a8-f9ba-4720-8c48-da7211546c04) | ![Map View 2](https://github.com/user-attachments/assets/426fb257-8dfd-4802-b4aa-3532a0da2690) | ![Map View 3](https://github.com/user-attachments/assets/04943a00-83d1-4d90-9dc8-70b726a99e6c) |
+
+| Video Call | Video Call |
+|---------------|-------------------|
+| ![Filter](https://github.com/user-attachments/assets/4fedcdea-89b6-41ef-a7ed-925731016616) | ![Dark Mode](https://github.com/user-attachments/assets/9d735710-a5e0-4cb0-984d-9500af485f31) |
+
 ## ⚙️ Tech Stack
 
 ### 🧠 Backend:
